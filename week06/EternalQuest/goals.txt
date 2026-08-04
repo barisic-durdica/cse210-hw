@@ -1,0 +1,4 @@
+250
+SimpleGoal:read book,read 20 pages,100,True
+EternalGoal:pray,daily prayer,50
+ChecklistGoal:temple,attend the temple,100,500,3,1
